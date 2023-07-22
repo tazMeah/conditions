@@ -1,1 +1,8 @@
-console.log("I will be king of the pirates!");
+// review of for loops
+
+for (let i = 0; i < 3; i++) {
+    console.log(i + "hello");
+}
+
+
+// conditions
